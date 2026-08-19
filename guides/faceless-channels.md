@@ -85,11 +85,37 @@ Keep records of:
 - Permission
 - Attribution requirements
 
-## Repurposing
+## Two Automation Paths
 
-A well-structured faceless long-form video can produce standalone Shorts when sections have strong mini-hooks and clear payoffs.
+### Path A — Create manually, then repurpose
+
+Use this when you want maximum control over research, scripting, narration, visuals, and editing, then turn a strong source video into additional short clips.
 
 👉 **[Try OpusClip for AI-assisted repurposing](https://opus.pro/?via=b4eee1)**
+
+### Path B — Automated faceless short-form series
+
+Use this when you want to test a recurring faceless short-form workflow where the service can generate videos, let you review/customize them, schedule them, and auto-post them to connected social channels.
+
+```text
+NICHE / SERIES IDEA
+  ↓
+AUTOSHORTS.AI
+  ↓
+GENERATE
+  ↓
+REVIEW + CUSTOMIZE
+  ↓
+SCHEDULE
+  ↓
+AUTO-POST
+  ↓
+REVIEW RESULTS
+```
+
+👉 **[Try AutoShorts.ai](https://autoshorts.ai/?ref=gaby401)**
+
+Even with a highly automated workflow, review videos before publication whenever possible. Check factual accuracy, pronunciation, visual quality, rights, and whether the finished video actually provides value.
 
 ## Quality Checklist
 
@@ -108,4 +134,4 @@ A well-structured faceless long-form video can produce standalone Shorts when se
 - [Module 4 — AI Video Creation](../modules/04-ai-video-generation.md)
 - [Module 5 — Voice, Music, Captions & Assets](../modules/05-voice-music-assets.md)
 
-> Affiliate disclosure: the OpusClip link may generate a commission for the course creator at no extra cost to you.
+> Affiliate disclosure: the OpusClip and AutoShorts.ai links may generate a commission for the course creator at no extra cost to you.
