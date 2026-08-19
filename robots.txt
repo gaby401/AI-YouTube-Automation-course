@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gaby401.github.io/AI-YouTube-Automation-course/sitemap.xml
