@@ -18,7 +18,17 @@ Best fit: creators who already have source videos and want AI-assisted short-for
 
 Official site: https://www.opus.pro/
 
-> Affiliate disclosure: the OpusClip link is an affiliate link. The course creator may receive a commission at no extra cost to you.
+## Automated Faceless Short-Form
+
+### 🤖 AutoShorts.ai
+
+Best fit: creators who want to build recurring faceless short-form series with automated generation, review/customization, scheduling, and auto-posting to YouTube, TikTok, and Instagram.
+
+👉 **[Try AutoShorts.ai](https://autoshorts.ai/?ref=gaby401)**
+
+Official site: https://autoshorts.ai/
+
+> Affiliate disclosure: the OpusClip and AutoShorts.ai links are affiliate links. The course creator may receive a commission at no extra cost to you.
 
 ## Transcript-Based Editing
 
@@ -70,10 +80,16 @@ AI assistant → Camera / phone → Editor → OpusClip → YouTube / TikTok / R
 Riverside → Master edit → OpusClip or Magic Clips → Social platforms
 ```
 
-### Faceless educational creator
+### Faceless educational creator — hands-on workflow
 
 ```text
 AI research assistant → Script → Voice → Visual assets → Editor → Repurposing tool → Platforms
+```
+
+### Faceless short-form creator — automated workflow
+
+```text
+Niche + Series Idea → AutoShorts.ai → Review → Schedule → YouTube / TikTok / Instagram
 ```
 
 ### Transcript-heavy creator
