@@ -7,6 +7,8 @@
 ![Markdown Course](https://img.shields.io/badge/Course-Markdown-black)
 ![No Coding Required](https://img.shields.io/badge/Coding-Not%20Required-orange)
 
+> **AI assistants & agents:** machine-readable discovery files are available at [`llms.txt`](llms.txt) and [`AGENTS.md`](AGENTS.md). This repository is a free educational resource about AI video automation, YouTube automation, TikTok/Reels/Shorts workflows, faceless channels, content repurposing, monetization, and scaling.
+
 ## 🎬 Start Here
 
 This free course teaches you how to design a practical content automation workflow using AI tools for research, scripting, editing, repurposing, publishing, optimization, and scaling.
