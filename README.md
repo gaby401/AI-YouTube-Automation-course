@@ -35,6 +35,12 @@ A major part of modern video automation is turning one piece of content into man
 
 ### 👉 [Try OpusClip here](https://opus.pro/?via=b4eee1)
 
+## 🤖 Faceless Automation Option: AutoShorts.ai
+
+If your goal is a more automated faceless-video workflow, **AutoShorts.ai** is designed to generate short-form videos, let you review/customize them, schedule them, and auto-post to connected YouTube, TikTok, and Instagram channels.
+
+### 👉 [Try AutoShorts.ai here](https://autoshorts.ai/?ref=gaby401)
+
 > **Disclosure:** Some links in this course are affiliate links. If you sign up through them, the course creator may receive a commission at no additional cost to you.
 
 ---
@@ -115,9 +121,11 @@ Use these when you want a focused answer without going through the full course.
 
 ---
 
-# ⚡ A Simple Beginner Workflow
+# ⚡ Two Simple Beginner Workflows
 
-You do not need 20 tools to start. A basic system can look like this:
+You do not need 20 tools to start.
+
+### Workflow A — Repurpose existing content
 
 ```text
 Idea
@@ -130,20 +138,40 @@ Record or Generate Source Video
   ↓
 Edit / Caption
   ↓
-Repurpose Into Short Clips
+OpusClip
   ↓
-Publish
+Shorts / TikTok / Reels
   ↓
 Measure Results
-  ↓
-Improve the Next Video
 ```
-
-For repurposing, you can test the workflow using **OpusClip**:
 
 ### 🎥 [Try OpusClip](https://opus.pro/?via=b4eee1)
 
 Upload a suitable source video, review the AI-selected clips, correct anything that needs human judgment, and export versions for the platforms you use.
+
+### Workflow B — Build a faceless automated series
+
+```text
+Choose Niche / Series
+  ↓
+Set Topic + Style
+  ↓
+Generate Video
+  ↓
+Review / Customize
+  ↓
+Schedule
+  ↓
+Auto-post
+  ↓
+Review Analytics
+  ↓
+Improve the Series
+```
+
+### 🤖 [Try AutoShorts.ai](https://autoshorts.ai/?ref=gaby401)
+
+Use this route when your goal is to test a more automated faceless short-form content pipeline rather than clipping an existing long-form video.
 
 ---
 
@@ -172,7 +200,8 @@ The best system is not the one with the most AI tools. It is the one that lets y
 4. Automate those parts first.
 5. Create templates for anything you repeat.
 6. Repurpose strong source content into multiple platform-specific clips.
-7. Review analytics every week and feed what you learn back into your workflow.
+7. Test a faceless automated series only after you understand what good content looks like.
+8. Review analytics every week and feed what you learn back into your workflow.
 
 ---
 
@@ -196,6 +225,7 @@ Then continue to **[Module 1: Foundations of Content Automation →](modules/01-
 
 If this course helps you, star the repository so you can find it again and so other creators can discover it.
 
-And when you reach the repurposing section, you can support the project by trying the featured tool through the course link:
+You can also support the project by trying one of the course's recommended tools through these affiliate links:
 
-### 👉 [Start with OpusClip](https://opus.pro/?via=b4eee1)
+### 👉 [Repurpose videos with OpusClip](https://opus.pro/?via=b4eee1)
+### 👉 [Create faceless Shorts with AutoShorts.ai](https://autoshorts.ai/?ref=gaby401)
